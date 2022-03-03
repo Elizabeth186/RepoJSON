@@ -1,0 +1,51 @@
+[
+        {
+          "IdAnimal":2,
+          "Nombre":"Kaiser",
+          "Raza":"Pitbull",
+          "Edad": 3
+        },
+        {
+            "IdAnimal":3,
+            "Nombre":"Lila",
+            "Raza" :"Chao-Chao",
+            "Edad": 5
+          },{
+            "IdAnimal":4,
+            "Nombre":"Cory",
+            "Raza": "Chihuahua",
+            "Edad": 1
+          },{
+            "IdAnimal":5,
+            "Nombre":"Lisa",
+            "Raza":"Bull Dog",
+            "Edad": 3
+          },{
+            "IdAnimal":6,
+            "Nombre":"Carl",
+            "Raza":"Meztizo",
+            "Edad":2
+          },{
+            "IdAnimal":7,
+            "Nombre":"Pipe",
+            "Raza":"Salchicha",
+            "Edad":3
+          },{
+            "IdAnimal":8,
+            "Nombre":"Luna",
+            "Raza":"Pitbull",
+            "Edad":6
+          },{
+            "IdAnimal":9,
+            "Nombre":"Kyara",
+            "Raza":"Pator Aleman",
+            "Edad": 5
+          },{
+            "IdAnimal":10,
+            "Nombre":"Koba",
+            "Raza":"French",
+            "Edad": 7
+          }
+       
+    ]
+  
