@@ -1,50 +1,41 @@
 [
         {
-          "IdAnimal":2,
+          "Id":2,
           "Nombre":"Kaiser",
-          "Raza":"Pitbull",
-          "Edad": 3
+          "Raza":"Pitbull"
         },
         {
-            "IdAnimal":3,
+            "Id":3,
             "Nombre":"Lila",
-            "Raza" :"Chao-Chao",
-            "Edad": 5
+            "Raza" :"Chao-Chao"
           },{
-            "IdAnimal":4,
+            "Id":4,
             "Nombre":"Cory",
-            "Raza": "Chihuahua",
-            "Edad": 1
+            "Raza": "Chihuahua"
           },{
-            "IdAnimal":5,
+            "Id":5,
             "Nombre":"Lisa",
-            "Raza":"Bull Dog",
-            "Edad": 3
+            "Raza":"Bull Dog"
           },{
-            "IdAnimal":6,
+            "Id":6,
             "Nombre":"Carl",
-            "Raza":"Meztizo",
-            "Edad":2
+            "Raza":"Meztizo"
           },{
-            "IdAnimal":7,
+            "Id":7,
             "Nombre":"Pipe",
-            "Raza":"Salchicha",
-            "Edad":3
+            "Raza":"Salchicha"
           },{
-            "IdAnimal":8,
+            "Id":8,
             "Nombre":"Luna",
-            "Raza":"Pitbull",
-            "Edad":6
+            "Raza":"Pitbull"
           },{
-            "IdAnimal":9,
+            "Id":9,
             "Nombre":"Kyara",
-            "Raza":"Pator Aleman",
-            "Edad": 5
+            "Raza":"Pator Aleman"
           },{
-            "IdAnimal":10,
+            "Id":10,
             "Nombre":"Koba",
-            "Raza":"French",
-            "Edad": 7
+            "Raza":"French"
           }
        
     ]
