@@ -1,0 +1,14 @@
+{
+    "title": "Lista de autos",
+    "R1":[
+        {"Modelo": "R1","Nombre":"Rivian R1","Version": [
+            {"Version ET":[
+                {"RANGO":"500 MILLAS","POTENCIA":"480HP","RECARGA": "CONECTOR","PRECIO": "$38,890"}
+            ] },
+            {"Version PRO":[
+                {"RANGO":"700 MILLAS","POTENCIA":"650HP","RECARGA": "CONECTOR Y SOLAR","PRECIO": "$48,190"}
+            ] }
+        ]
+    }
+   ]
+}
