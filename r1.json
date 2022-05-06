@@ -1,7 +1,7 @@
 {
     "title": "Modelo R1",
     "Versiones":[
-        {"Version":"ET","RANGO":"500 MILLAS","POTENCIA":"480HP","RECARGA": "CONECTOR","PRECIO": "$38,890"},
-            {"Version":"PRO","RANGO":"700 MILLAS","POTENCIA":"650HP","RECARGA": "CONECTOR Y SOLAR","PRECIO": "$48,190"}
+        {"id":"1","Version":"ET","RANGO":"500 MILLAS","POTENCIA":"480HP","RECARGA": "CONECTOR","PRECIO": "$38,890"},
+            {"id":"2","Version":"PRO","RANGO":"700 MILLAS","POTENCIA":"650HP","RECARGA": "CONECTOR Y SOLAR","PRECIO": "$48,190"}
    ]
 }
