@@ -2,10 +2,10 @@
     "title": "MODELO S1",
     "Versiones":[
         {"id": 1,"Version":"ET","RANGO":"540 MILLAS","POTENCIA":"480HP","RECARGA": "CONECTOR","PRECIO": "$42,890"}
-            ] },
-            {"id": 2,"Version PRO":[
+            },
+            {"id": 2,"Version":"PRO":
                 {"RANGO":"720 MILLAS","POTENCIA":"650HP","RECARGA": "CONECTOR Y SOLAR","PRECIO": "$51,190"}
-            ] }
+             }
         ]
 }
     
