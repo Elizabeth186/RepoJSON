@@ -175,7 +175,14 @@
         "status": "Oferta",
         "stock": 1,
         "talla": [],
-        "color": [],
+        "color": [
+            "#BAB6BA",
+            "#F7B5B5",
+            "#D1F4EB",
+            "#EEEABB",
+            "#C4DFCB",
+            "#F9BD86"
+        ],
         "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
         "category": "jewelery",
         "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
