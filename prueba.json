@@ -130,7 +130,13 @@
         "price2": 200.99,
         "status": "Normal",
         "stock": 5,
-        "talla": [],
+        "talla": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
         "color": [],
         "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
         "category": "jewelery",
@@ -148,7 +154,11 @@
         "status": "Normal",
         "stock": 0,
         "talla": [],
-        "color": [],
+        "color": [
+            "#BAB6BA",
+            "#F7B5B5",
+            "#D1F4EB"
+        ],
         "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
         "category": "jewelery",
         "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
