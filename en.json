@@ -1,0 +1,46 @@
+[
+    {
+        "question": "Where can I buy Wait N 'Rest products?",
+        "answer": "You will find a touch screen inside your room that will allow you to purchase any of our products. On our shop you will find sleepwear, blankets, pillows and the coolest merch you have ever seen. Choose what you like the most and our staff will take it to your room."
+    },
+    {
+        "question": "How many people can use the room at the same time?",
+        "answer": "Our rooms are only for one (01) person. Failure to comply with this rule will result in a <label id='pen-multi'></label> fine that will be charged to the registered payment method."
+    },
+    {
+        "question": "How much does it cost?",
+        "answer": "The Wait N' Rest rate is per hour or fraction and is <label class='answer' id='price-questions'></label> USD. If you register between 6:00 AM and 18:00 PM, you will have access to an exclusive offer of 3hours for 16.98 USD (33% OFF of the regular price). Time starts running from the moment you check-in and stops when you check-out on the touch screen outside your room. You will have 5 minutes after each hour to check-out without being charged for the additional hour."
+    },
+    {
+        "question": "How do you charge me?",
+        "answer": "During your check-in, we carry out a pre-authorization equivalent to 8 hours of stay (maximum time allowed) through our STRIPE payment gateway to your debit or credit card. When you finished the check-out process for your room, our system only captured the amount corresponding to the time of your stay. The release of the remaining 'frozen' balance will depend on your bank's authorization retention policies. It usually takes between 2 to 20 business days. Remember a pre-authorization is a 'charge pending confirmation', and although it may be shown on your account statement as a deduction; it is not."
+    },
+    {
+        "question": "How do I do my check-out?",
+        "answer": "Use the touch screen outside your room and press the check-out button. Put the password for your room, close the door and follow the instructions. It is a very easy process."
+    },
+    {
+        "question": "What are your protocols against COVID-19?",
+        "answer": "Your room is disinfected after each use by our staff. We use the latest guidelines from the Colombian government to combat COVID-19. We inject each room with fresh air purified by HEPA H13 filters. HEPA filters are nearly 100% efficient at capturing the spectrum of particles down to the very smallest airborne particles. We use an air renewal system similar to the ones used at operating rooms in hospitals or in airplanes."
+    },
+    {
+        "question": "Can I check flight information inside my room?",
+        "answer": "Yes. Your room is equipped with a touch screen where you can check the status of your flight in real time, control the temperature of your room, lighting and purchase any of our products."
+    },
+    {
+        "question": "Can I reserve a room in advance for a specific date?",
+        "answer": "Yes. Go to our website <label class='l-bold'>www.waitnrest.com</label> and reserve your room. We only accept reservations 24 hours before your arrival date and for a minimum stay of 4 hours."
+    },
+    {
+        "question": "Are they available 24/7?",
+        "answer": "Yes. Wait N 'Rest rooms are available to you 24 hours a day."
+    },
+    {
+        "question": "Can I go in and out of the premises or my room as many times as I want?",
+        "answer": "Yes. Use the 're-enter' button found on the touchscreens at our check-in area to get back inside. Search for your room and press the re-enter button found on the touch screen outside your room. To get inside you will need to put the password you registered with us at your check-in. As long as you are not in your room, your room remains locked."
+    },
+    {
+        "question": "How does it work?",
+        "answer": "Register on the check-in screens outside our headquarters. You must enter a password for your room, your card details and an email to be able to send you the invoice when you finish the service. We will assign you a room number and you will be able to enter our headquarters. The Wait N' Rest rate is per hour or fraction or per package. If you register between 6:00 AM and 18:00 PM, you will have access to an 6-hour offer for USD 16.98 (33% discount). Time starts counting from the moment you check-in and stops when you successfully check-out. For your check-out you only have to follow the instructions on the touch screen located outside your room"
+    }
+]
