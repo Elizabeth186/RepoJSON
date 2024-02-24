@@ -1,4 +1,4 @@
-var frequent_questions = [
+[
     {
         question: "¿Dónde puedo comprar los productos Wait N’ Rest?",
         answer: "Al interior de tu habitación encontrarás una pantalla táctil que te permitirá adquirir cualquiera de nuestros productos. En nuestro shop encontrarás pijamas, mantas, almohadas y el merch más cool que viste en tu vida. Escoge lo que más te guste y nuestro personal te lo llevará a tu habitación."
