@@ -1,0 +1,10 @@
+{
+  "pods_disponibles": 19,
+  "pods_alto_status": 1,
+  "pods_bajos_status": 0,
+  "images": [
+    "https://fastly.picsum.photos/id/967/474/474.jpg?hmac=k-rlhStV3AJrwv_4iDtr6vcJ8G-tL3uF3P-Vp2_RZs8",
+    "https://fastly.picsum.photos/id/723/474/474.jpg?hmac=GM-9f5Gf7N9nN2_hGDpIhdq-SZ4my8iMddvres8d8AI",
+    "https://fastly.picsum.photos/id/514/474/474.jpg?hmac=hrsz70k9YdkdMyMSXvbEcDhWP3p1_pn4a931Ocnkh8k"
+  ]
+}
